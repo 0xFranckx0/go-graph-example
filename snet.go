@@ -2,7 +2,7 @@ package main
 
 import (
 	log "github.com/Sirupsen/logrus"
-	server "github.com/coyotte-test/socnet"
+	server "github.com/go-graph-example/socnet"
 	"net/http"
 	"os"
 )
